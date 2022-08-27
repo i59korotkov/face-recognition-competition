@@ -1,0 +1,12 @@
+matplotlib
+numpy
+onnxruntime-gpu
+pandas
+Pillow
+retinaface_pytorch
+scikit_learn
+seaborn
+torch
+torchvision
+tqdm
+insightface
